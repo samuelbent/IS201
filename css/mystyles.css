@@ -1,0 +1,13 @@
+h2 {
+    font-family: 'Comic Sans', 'Courier New', Courier, monospace;
+}
+.darkcolor {
+    background-color: navy !important;
+}
+.text-primary {
+    color: navy !important;
+}
+a{
+    color: navy, !important;
+}
+
